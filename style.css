@@ -1,0 +1,29 @@
+footer{
+    color: white;
+}
+
+
+/* footer-icon-animation */
+.icon-footer {
+    color: white;
+    display: inline-block;
+    transition: 0.5s all ease-in-out;
+}
+
+.icon-footer:hover{
+    transform: scale(1.5);
+    color: red;
+}
+/* footer-icon-animation */
+
+
+/* footer-link-animation */
+.link-footer{
+    color: white;
+    transition: 0.5s all ease-in-out;
+}
+
+.link-footer:hover{
+    color: red;
+}
+/* footer-link-animation */
